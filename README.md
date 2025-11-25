@@ -1,4 +1,3 @@
-<img width="1030" height="399" alt="image" src="https://github.com/user-attachments/assets/3c00f812-368f-4fa3-8c19-dcfa95e9216e" /># RT-Chat-Box
 战锤40k行商浪人-群聊自动生成表情包。
 
 双击打开软件，选择角色，在聊天页面输入自定义文本，回车，即可发送图片。
